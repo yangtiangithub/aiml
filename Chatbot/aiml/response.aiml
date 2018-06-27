@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+    <!-- ########## 日常问候 ########## -->
+    <category>
+        <pattern>REACTGREET</pattern>
+        <template>
+            <random>
+                <li>你好啊~</li>
+                <li>Hi</li>
+                <li>哈喽，你好</li>
+                <li>Hello~</li>
+            </random>
+        </template>
+    </category>
+
+
+</aiml>

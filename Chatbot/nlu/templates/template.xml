@@ -1,0 +1,34 @@
+<doc>
+<template>
+	<tempword>
+		<word>歌,歌曲,音乐,乐曲,曲</word>
+		<wordclass>n</wordclass>
+	</tempword>
+	<entity isresult="true" internode="true" direction="to" direct="false">
+		<relation>ATT</relation>
+		<wordclass>v,a,nh,n,ni,nl,ns,nz,nt</wordclass>
+	</entity>
+	<entity isresult="true" internode="false" direction="to" direct="true">
+		<relation>COO</relation>
+		<wordclass>v,a,nh,n,ni,nl,ns,nz,nt</wordclass>
+	</entity>
+</template>
+<template>
+	<tempword>
+		<word>听</word>
+		<wordclass>v</wordclass>
+	</tempword>
+	<entity isresult="true" internode="true" direction="to" direct="true">
+		<relation>VOB</relation>
+		<wordclass>n,ni,nl,ns,nz,nt</wordclass>
+	</entity>
+	<entity isresult="true" internode="true" direction="to" direct="false">
+		<relation>ATT</relation>
+		<wordclass>v,a,nh,n,ni,nl,ns,nz,nt</wordclass>
+	</entity>
+	<entity isresult="true" internode="false" direction="to" direct="true">
+		<relation>COO</relation>
+		<wordclass>v,a,nh,n,ni,nl,ns,nz,nt</wordclass>
+	</entity>
+</template>
+</doc>

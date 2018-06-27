@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+        <pattern>搜 适合 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+</aiml>

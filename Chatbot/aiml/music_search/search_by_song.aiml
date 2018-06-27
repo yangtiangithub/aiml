@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+        <pattern>搜歌名 *</pattern>
+        <template>
+        <think>
+        <set name = "song_name"> <star/> </set>
+        <set name = "signal">song_name_get</set>
+        </think>
+        #SEARCHBYSONG:<get name = "song_name"/>
+        </template>
+    </category>
+</aiml>

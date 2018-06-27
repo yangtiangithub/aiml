@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+    <!-- ########## 日常问候 ########## -->
+    <category>
+        <pattern>你好</pattern>
+        <template>
+            #Greeting
+        </template>
+    </category>
+
+    <category>
+        <pattern>HI</pattern>
+        <template>
+            <srai>你好</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HI *</pattern>
+        <template>
+            <srai>你好</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            <srai>你好</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>HELLO *</pattern>
+        <template>
+            <srai>你好</srai>
+        </template>
+    </category>
+
+    <category>
+        <pattern>* 你好</pattern>
+        <template>
+            <srai>你好</srai>
+        </template>
+    </category>
+
+</aiml>

@@ -1,0 +1,3731 @@
+
+    <category>
+        <pattern></pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>适合 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>合适 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>可以 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>* 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 适合 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 合适 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 可以 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 在 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 适合 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 的 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 的 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 的 时候 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 的 时候 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 合适 * 的 时候 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时 听 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时 听 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时 听 的 曲子</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时候 听 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>
+    <category>
+        <pattern>听 首 可以 * 时候 听 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "song_scene"> <star/> </set>
+        <set name = "signal">song_scene_get</set>
+        </think>
+        #SEARCHBYSCENE:<get name = "song_scene" />
+        </template>
+    </category>

@@ -1,0 +1,1991 @@
+
+   <category>
+       <pattern></pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类型 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 一 类 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 类别 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 风格 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类型 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 类别 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 一 风格 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这 类 风格 * 这种 类型 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 类别 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>* 这种 风格 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类型 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 一 类 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 类别 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 风格 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类型 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 类别 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 一 风格 的 曲子</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 的 歌</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 的 歌曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 的 音乐</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>
+   <category>
+       <pattern>听 * 这 类 风格 * 这种 类型 的 乐曲</pattern>
+       <template>
+       <think>
+       <set name = "song_type"> <star/> </set>
+       <set name = "signal">song_type_get</set>
+       </think>
+       #SEARCHBYTYPE:<get name = "song_type" />
+       </template>
+   </category>

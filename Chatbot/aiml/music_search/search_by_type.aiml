@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+    <category>
+        <pattern>搜 比较 * 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "song_type"> <star/> </set>
+        <set name = "signal">song_type_get</set>
+        </think>
+        #SEARCHBYTYPE:<get name = "song_type" />
+        </template>
+    </category>
+</aiml>

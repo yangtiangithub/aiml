@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml version="1.0">
+
+    <category>
+        <pattern>HELLO</pattern>
+        <template>
+            #Greeting
+        </template>
+    </category>
+    <category>
+        <pattern>你好</pattern>
+        <template>
+            #Greeting
+        </template>
+    </category>
+
+</aiml>

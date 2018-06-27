@@ -1,0 +1,10 @@
+<aiml version="1.0">
+
+    <category>
+        <pattern>LOAD AIML NLG</pattern>
+        <template>
+            <learn>aiml/response.aiml</learn>
+        </template>
+    </category>
+
+</aiml>

@@ -1,0 +1,4251 @@
+
+    <category>
+        <pattern></pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 演唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 演唱 的 音乐</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一下 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 找 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一下 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一下 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜搜 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一下 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>找 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查找 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>搜索 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查 一下 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>查查 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 一个 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播 个 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播歌 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>播放 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点点 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 一个 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>点 歌 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 个 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 一个 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>来 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放放 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放 一 首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>放首 * 演唱 的 乐曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 找 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜搜 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 一下 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查查 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播歌 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点点 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 歌 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 一个 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 放 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 一 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 首 * 唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 找 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜搜 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 一下 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查查 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播 个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播歌 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 播放 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点点 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 点 歌 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 一个 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 来 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 放 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 一 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 放 首 * 演唱 的 歌</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 找 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜索 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜搜 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一下 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 找 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 查找 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
+    <category>
+        <pattern>帮 我 搜 一 首 * 唱 的 歌曲</pattern>
+        <template>
+        <think>
+        <set name = "singer_name"> <star/> </set>
+        <set name = "signal">singer_name_get</set>
+        </think>
+        #SEARCHBYSINGER:<get name = "singer_name"/>
+        </template>
+    </category>
